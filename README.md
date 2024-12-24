@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fonx-studio, a single person game studio from Canada
 - 🧑🏻‍💻 I'm professionally a UX Designer
 - 👀 I’m interested in UX, FTUE, Rust, Unreal, and Bevy projects
-- 🌱 I’m currently learning Bevy 
+- 🌱 I’m currently learning Bevy to understand better Entity Component Systems like Flecs, DOTS, MASS
 - 💞️ I’m looking to collaborate on games as UX Designer that understand coding
 - 📫 How to reach me create an issue in this repo
 - 😄 Pronouns: He/They
