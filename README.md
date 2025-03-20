@@ -3,7 +3,7 @@
 - 👀 I’m interested in UX, FTUE, Rust, Unreal, and Bevy projects
 - 🌱 I’m currently learning Bevy to understand better Entity Component Systems like Flecs, DOTS, MASS
 - 💞️ I’m looking to collaborate on games as UX Designer that understand coding
-- 📫 How to reach me create an issue in this repo
+- 📫 How to reach me: create an issue in this repo
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Until a few years ago I never thought of me as an UX for games, Game Designer or pseudo-programmer.
 
